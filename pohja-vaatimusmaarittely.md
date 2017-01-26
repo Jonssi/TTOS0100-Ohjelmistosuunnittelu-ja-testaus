@@ -76,7 +76,7 @@ qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non
 incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
 quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
 
-![](https://openclipart.org/image/800px/svg_to_png/17266/berteh-flow-diagram-symbols.png&disposition=attachment)
+![](https://i.imgur.com/J7PYw5K.png)
 
 ## Asiakaspolku (Customer Journey)
 
