@@ -76,7 +76,7 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 
 
 
-![](https://openclipart.org/image/800px/svg_to_png/17266/berteh-flow-diagram-symbols.png&disposition=attachment)
+![](https://imgur.com/1l9s6d4)
 
 
 ## Tuotteen yleisiä vaatimuksia ja rajoituksia (General Requirements and restrictions)
