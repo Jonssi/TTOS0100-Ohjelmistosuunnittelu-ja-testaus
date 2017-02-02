@@ -48,7 +48,7 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 
 ## Asiakastarina
 
-[Karo Saharinen](https://github.com/Jonssi/Asiakasprofiili/wiki/Sahka)
+[Karo Saharinen](https://github.com/Jonssi/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/wiki/Sahka)
 
 ## Sidosryhmät (Stakeholders) ja profiilikuvaukset (Profile descriptions)
 
