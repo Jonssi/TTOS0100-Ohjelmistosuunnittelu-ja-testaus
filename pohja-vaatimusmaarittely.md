@@ -76,7 +76,7 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 
 
 
-![](https://imgur.com/1l9s6d4)
+[](https://imgur.com/1l9s6d4)
 
 
 ## Tuotteen yleisiä vaatimuksia ja rajoituksia (General Requirements and restrictions)
