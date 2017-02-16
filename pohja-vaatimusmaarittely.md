@@ -202,7 +202,7 @@ incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minim
 quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
 MocuUP: https://ninjamock.com/s/MR89H 
 ![https://ninjamock.com/s/MR89H](http://i.imgur.com/eQismdc.png)
-![http://i.imgur.com/1GUHcom.png](https://ninjamock.com/s/MR89H)
+![https://ninjamock.com/s/MR89H](http://i.imgur.com/1GUHcom.png)
 
 
 ## Tärkeimmät tunnistetut ominaisuudet (Features)
