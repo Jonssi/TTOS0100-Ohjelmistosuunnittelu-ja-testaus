@@ -203,6 +203,7 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 MocuUP: https://ninjamock.com/s/MR89H 
 ![https://ninjamock.com/s/MR89H](http://i.imgur.com/eQismdc.png)
 ![https://ninjamock.com/s/MR89H](http://i.imgur.com/1GUHcom.png)
+[![](http://i.imgur.com/1GUHcom.png)](www.google.com)
 
 
 ## Tärkeimmät tunnistetut ominaisuudet (Features)
