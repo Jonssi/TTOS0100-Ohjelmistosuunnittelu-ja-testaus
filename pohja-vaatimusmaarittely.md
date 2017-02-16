@@ -200,8 +200,9 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
 incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
 quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
-
-![](https://openclipart.org/image/800px/svg_to_png/236916/1452485143.png&disposition=attachment)
+MocuUP: https://ninjamock.com/s/MR89H 
+![](http://i.imgur.com/eQismdc.png)
+![](http://i.imgur.com/undefined.png)
 
 
 ## Tärkeimmät tunnistetut ominaisuudet (Features)
