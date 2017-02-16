@@ -201,8 +201,8 @@ qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non
 incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
 quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
 MocuUP: https://ninjamock.com/s/MR89H 
-[http://i.imgur.com/eQismdc.png](https://ninjamock.com/s/MR89H)
-[http://i.imgur.com/1GUHcom.png](https://ninjamock.com/s/MR89H)
+![http://i.imgur.com/eQismdc.png](https://ninjamock.com/s/MR89H)
+![http://i.imgur.com/1GUHcom.png](https://ninjamock.com/s/MR89H)
 
 
 ## Tärkeimmät tunnistetut ominaisuudet (Features)
