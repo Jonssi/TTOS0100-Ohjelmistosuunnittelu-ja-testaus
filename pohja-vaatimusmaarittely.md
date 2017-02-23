@@ -30,13 +30,11 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 
 ### Palvelukuvaus
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
-totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, 
-sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, 
-qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
-incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
-quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? 
+Jamkista valmistuminen edellyttää opiskelijalta hyväksyttyä opinnäytetyötä. Nykyinen käytäntö opinnäytetyön hyväksymiselle on manuaalinen arviointiprosessi ja mitään valmista sovellusta tai ohjelmaa tähän työhön ei ole.
+
+Tehtävän tavoitteena on luoda selkeä sovellus tai palvelu, jolla saataisiin tämä prosessi helpommaksi opettajille, opiskelijoille ja opinnäytetyön toimeksiantajille. Tarkoituksena olisi vähentää kirjoitustyötä ja manuaalista prosessia, jolloin saataisiin opinnäytetyön arviointi prosessia myöskin nopeutettua.
+
+Sovelluksen tärkein ominaisuus olisi helppokäyttöisyys. Sovelluksen avulla pitäisi voida myös pitää kirjaa opinnäytetöistä, estää plaginointia, sekä auttaa opinnäytetyön tekijää seuraamaan tarkastusta ja arviointia. Sovelluksen käyttö edellyttää kirjautumista määrätyillä tunnuksilla ja eri käyttäjillä on eri oikeuksia nähdä sinne ladattuja opinnäytetöitä
 
 ### Vaatimusmäärittelytyön tilaaja
 
