@@ -19,13 +19,7 @@
 
 ## Johdatus
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
-totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, 
-sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, 
-qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
-incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
-quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
+Odotetaan tietoa siitä minkä johdatusta kaivataan. Onko tehtyyn tehtävään, vaiko tähän dokumentointiin.
 
 
 ### Palvelukuvaus
@@ -60,13 +54,7 @@ Jon Sundberg, K2754
 
 ## Sidosryhmäkuva (Stakeholder map)
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
-totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, 
-sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, 
-qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
-incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
-quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
+Sidosryhmäkuvan tehtävänä on graavisesti selkeyttää sidosryhmän toimivuutta ja sitä kenelle tämä annettu sovellus on suunnattu. 
 
 ![](https://i.imgur.com/J7PYw5K.png)
 
@@ -79,19 +67,16 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 
 ## Tuotteen yleisiä vaatimuksia ja rajoituksia (General Requirements and restrictions)
 
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, 
-sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, 
-qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
-incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
+Tuotteen toimivuuden kannalta on vaadittava turvallinen ja helppo käyttö. Tuotteen on oltava vakaasti toimiva ja selkeä, ettei turhaa aikaa kulu toimivuuden etsimiseen. Tuotteen ainoana mahdollisena rajoituksena on penkin ja näppäimistön välissä istuva käyttäjä.
 
 
 | Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
 |:-:|:-:|:-:|:-:|
-| GENREQ001 | Vaatimus? | Mikä osa-alue | Kuka vastaa | 
-| GENREQ002 | Vaatimus? | Mikä osa-alue | Kuka vastaa | 
-| GENREQ003 | Vaatimus? | Mikä osa-alue | Kuka vastaa | 
-| GENREQ004 | Vaatimus? | Mikä osa-alue | Kuka vastaa | 
-| GENREQ005 | Vaatimus? | Mikä osa-alue | Kuka vastaa | 
+| GENREQ001 | Sovellus on helppo käyttöinen | Kehitys | Koodari | 
+| GENREQ002 | Kirjautuminen vaatii henkilökohtaiset tunnukset | Käyttöympäristö | Admin | 
+| GENREQ003 | Arvioinnin täyttö selkeä ja helppo | Kehitys / Suunnittelu | Koodari | 
+| GENREQ004 | Minimaalinen riski väärinkäytölle | Kehitys / Ylläpito | Koodari / Käyttäjä | 
+| GENREQ005 | Sovelluksen oltava luotettava | Kehitys | Koodari | 
 
 
 
