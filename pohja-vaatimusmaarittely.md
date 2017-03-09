@@ -38,11 +38,11 @@ Sovelluksen tärkein ominaisuus olisi helppokäyttöisyys. Sovelluksen avulla pi
 
 ### Vaatimusmäärittelytyön tilaaja
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
+[Karo Saharinen](https://github.com/Jonssi/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/wiki/Sahka) 
 
 ### Vaatimusmäärittelyn toimittaja
 
-quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
+Jon Sundberg, K2754
 
 ## Asiakastarina
 
@@ -50,13 +50,13 @@ quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid 
 
 ## Sidosryhmät (Stakeholders) ja profiilikuvaukset (Profile descriptions)
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
-totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae 
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, 
-sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, 
-qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora 
-incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, 
-quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
+Arviointisovellusta käyttävät henkilöt:
+Opiskelija: [Jon Sundberg](https://github.com/Jonssi/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/wiki/Profiilikuvaus-Jon-Sundberg)
+Vertaisopiskelija: [Sbastian Laksonen](https://github.com/Jonssi/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/wiki/Profiilikuvaus-Sbastian-Laksonen)
+Ohjaava opettaja1: [Pavel Kolmimarkka](https://github.com/Jonssi/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/wiki/Profiilikuvaus-Pavel-Kolmimarkka)
+Ohjaava opettaja2: [Jarppi Viinakanjoki](https://github.com/Jonssi/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/wiki/Profiilikuvaus-Jarppi-Viinakanjoki)
+Toimeksiantaja: [Usko Suihkari](https://github.com/Jonssi/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/wiki/Profiilikuvaus-Usko-Suihkari)
+
 
 ## Sidosryhmäkuva (Stakeholder map)
 
