@@ -44,7 +44,7 @@ Jon Sundberg, K2754
 
 ## Sidosryhmät (Stakeholders) ja profiilikuvaukset (Profile descriptions)
 
-#Arviointisovellusta käyttävät henkilöt:
+### Arviointisovellusta käyttävät henkilöt:
 * Opiskelija: [Jon Sundberg](https://github.com/Jonssi/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/wiki/Profiilikuvaus-Jon-Sundberg)
 * Vertaisopiskelija: [Sbastian Laksonen](https://github.com/Jonssi/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/wiki/Profiilikuvaus-Sbastian-Laksonen)
 * Ohjaava opettaja1: [Pavel Kolmimarkka](https://github.com/Jonssi/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/wiki/Profiilikuvaus-Pavel-Kolmimarkka)
