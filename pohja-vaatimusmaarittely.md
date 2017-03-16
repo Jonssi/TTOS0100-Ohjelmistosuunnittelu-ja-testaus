@@ -43,7 +43,7 @@ Jon Sundberg, K2754
 Opiskelija on sopinut työnantajan kanssa opinnäytetyöstä. Opiskelijan ensimmäinen tehtävä on esittää opinnäytetyön aihe koulutusvastaavalle. Koulutusvastaavan hyväksyttyä aihe, hän määrää opiskelijalle kaksi ohjaajaa. Kun opiskelijan tekemä opinnäytetyö on valmis, hyväksyy toinen ohjaaja opinnäytetyön arvioitavaksi. 
 
 Opinnäytetyö ladataa arviointisivustolle, jonka jälkeen kaikille opinnäytetyön arvioitsijoille lähetetään henkilökohtaiset tunnukset opinnäytetyön lukemista, kommentoimista ja arviointia varten. Kun kaikki sivusto on  rekisteröinyt kaikilta tunnuksilta arvioinnin, ohjelma laskee lopullisen keskiarvon ja odottaa koulutusvastaavan hyväksyntää arvioinnille. Kun arviointi on hyväksytty, opiskelija saa lopullisen arvosanan opinnäytetyötapaamisessa.
-
+![](blob:http://imgur.com/ca18675c-0e10-4b33-95a4-9b7f67838553)
 [Karo Saharinen](https://github.com/Jonssi/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/wiki/Sahka)
 
 ## Sidosryhmät (Stakeholders) ja profiilikuvaukset (Profile descriptions)
