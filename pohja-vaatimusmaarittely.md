@@ -86,6 +86,7 @@ Tuotteen toimivuuden kannalta on vaadittava turvallinen ja helppo käyttö. Tuot
 
 ## Yleiset käyttötapaukset (General Use Cases)
 
+# [Käyttötapaus1](https://github.com/Jonssi/TTOS0100/wiki/Usercase1)
 
 
 ![](http://i.imgur.com/xQjpEFp.png)
