@@ -19,7 +19,7 @@
 
 ## Johdatus
 
-Odotetaan tietoa siitä minkä johdatusta kaivataan. Onko tehtyyn tehtävään, vaiko tähän dokumentointiin.
+Tehtävän aiheena on Jyväskylän ammattikorkeakoululle opinnäytetyön arvioimistyökalun nykyisen manuaalisen tavan tilalle. Vaatimusmäärittelyssä on tarkoituksena tuoda esiin eri sidosryhmät, käyttäjäprofiilit ja käyttötapaukset. Vaatimusmäärittelyssä tulee ilmi sovelluksen vaaditut ominaisuudet, jotka sovelluksen toimivuuden kannalta ovat välttämättömiä.
 
 
 ### Palvelukuvaus
