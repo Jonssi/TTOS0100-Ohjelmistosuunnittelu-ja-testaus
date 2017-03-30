@@ -94,96 +94,70 @@ Tuotteen toimivuuden kannalta on vaadittava turvallinen ja helppo käyttö. Tuot
 
 ## Palveluun liittyvät toiminnalliset vaatimukset (Functional Requirements)
 
-TÄHÄN JOTAIN SCHAIBAA!!!!
 
-| Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
-|:-:|:-:|:-:|:-:|
-| REQ001 | Vaatimus? | Mikä osa-alue | Kuka vastaa | 
-| REQ002 | Vaatimus? | Mikä osa-alue | Kuka vastaa | 
-| REQ003 | Vaatimus? | Mikä osa-alue | Kuka vastaa | 
-| REQ004 | Vaatimus? | Mikä osa-alue | Kuka vastaa | 
-| REQ005 | Vaatimus? | Mikä osa-alue | Kuka vastaa | 
+
+| Id | Vaatimuksen kuvaus |
+|:-:|:-:|
+| REQ001 | JAMK:n käyttäjätunnuksella haku |
+| REQ002 | Kun tietoja lisätään lokiin kuittaus |
+| REQ003 | Kuin tietoja muokataan lokiin kuittaus |
+| REQ004 | Kirjautuminen JAMK:n tunnuksilla |
+| REQ005 | Arvioinnista lähetetään kuittaus arvioijan sähköpostiin |
+| REQ006 | Tietojen lisäämisen jälkeen arviointisivu luodaan |
+| REQ007 | Jos väärää salasanaa syötetään useasti, lähtee ylläpidolle siitä viesti |
+| REQ008 | Salasana 5 kertaa väärin, käyttäjältä vaaditaan salasanan vaihtoa |
+| REQ009 | Vain annetuilla tunnuksilla kirjautuminen mahdollista |
+| REQ010 | Kommenttien lisäämisestä lähetetään arvioijalle sekä opiskelijalle viesti | 
 
 
 ## Palveluun liittyvät ei-toiminnalliset vaatimukset (Non Functional Requirements)
 
-TÄHÄN JOTAIN SCHAIBAA!!!!
-### Suorituskyky? (Performance)
+| Id | Vaatimuksen kuvaus |
+|:-:|:-:|
+| NREQ001 | Toimii kaikilla selaimilla |
+| NREQ002 | Kolme kielivaihtoehtoa: suomi, ruotsi ja englanti |
+| NREQ003 | Ylläpitotyöt ei aiheuta käyttökatkoja |
+| NREQ004 | Samaa työtä pystyy käsittelemään max 15henk. |
+| NREQ005 | Toimivuus myös mobiililaitteilla |
 
-TÄHÄN JOTAIN SCHAIBAA!!!!
-
-| Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
-|:-:|:-:|:-:|:-:|
-| REQ00x | Vaatimus? | Suorituskyky | Kuka vastaa | 
-| REQ00x | Vaatimus? | Suorituskyky | Kuka vastaa | 
-| REQ00x | Vaatimus? | Suorituskyky | Kuka vastaa | 
-
-### Luotettavuus?
-
-TÄHÄN JOTAIN SCHAIBAA!!!!
-| Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
-|:-:|:-:|:-:|:-:|
-| REQ00x | Vaatimus? | Luotettavuus | Kuka vastaa | 
-| REQ00x | Vaatimus? | Luotettavuus | Kuka vastaa | 
-| REQ00x | Vaatimus? | Luotettavuus | Kuka vastaa | 
+### Suorituskykyvaatimukset (Performance Requirements)
 
 
-### Tietoturva?
+| Id | Vaatimuksen kuvaus |
+|:-:|:-:|
+| PE001 | Haetut tiedot saatava 3sekunnin kuluessa | 
+| PE002 | Sovelluksen lähettämät viestit lähtee 5min kuluessa |
+| PE003 | Kirjautuminen työkaluun 5s kuluessa |
+ 
 
-TÄHÄN JOTAIN SCHAIBAA!!!!
-| Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
-|:-:|:-:|:-:|:-:|
-| REQ00x | Vaatimus? | Tietoturva | Kuka vastaa | 
-| REQ00x | Vaatimus? | Tietoturva | Kuka vastaa | 
-| REQ00x | Vaatimus? | Tietoturva | Kuka vastaa | 
-| REQ00x | Vaatimus? | Tietoturva | Kuka vastaa | 
-| REQ00x | Vaatimus? | Tietoturva | Kuka vastaa | 
-| REQ00x | Vaatimus? | Tietoturva | Kuka vastaa | 
 
-### Käytettävyys
+### Tietoturvavaatimukset (Data Security Requirements)
 
-TÄHÄN JOTAIN SCHAIBAA!!!!
 
-| Id | Vaatimuksen kuvaus | kategoria | Vastuullinen |
-|:-:|:-:|:-:|:-:|
-| REQ00x | Vaatimus? | Käytettävyys | Kuka vastaa | 
-| REQ00x | Vaatimus? | Käytettävyys | Kuka vastaa | 
-| REQ00x | Vaatimus? | Käytettävyys | Kuka vastaa | 
-| REQ00x | Vaatimus? | Käytettävyys | Kuka vastaa | 
-| REQ00x | Vaatimus? | Käytettävyys | Kuka vastaa | 
+| Id | Vaatimuksen kuvaus |
+|:-:|:-:|
+| DS001 | Vain määritetyt käyttäjät pystyvät näkemään ja käsittelemään työtä |
+| DS002 | Salattu yhteys |
+| DS003 | Käyttäjän uloskirjaus, jos 15min ilman käyttöä |
 
 
 ## Palvelu MockUp-prototyyppi
 
 
-TÄHÄN JOTAIN SCHAIBAA!!!!
 MocuUP: https://ninjamock.com/s/MR89H 
 [![](http://i.imgur.com/eQismdc.png)](https://ninjamock.com/s/MR89H)
 [![](http://i.imgur.com/1GUHcom.png)](https://ninjamock.com/s/MR89H)
 
 ## Tärkeimmät tunnistetut ominaisuudet (Features)
 
-TÄHÄN JOTAIN SCHAIBAA!!!!
-| Ominaisuus | Prioriteetti | Muuta |
-| :-: | :-: | :-: |
-| [Ominaisuus 1](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-ominaisuuskuvaus.md) | | |
-| [Ominaisuus 2](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-ominaisuuskuvaus.md) | | |
-| [Ominaisuus 3](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-ominaisuuskuvaus.md) | | |
-| [Ominaisuus 4](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-ominaisuuskuvaus.md) | | |
-| [Ominaisuus 5](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-ominaisuuskuvaus.md) | | |
-| [Ominaisuus 6](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-ominaisuuskuvaus.md) | | |
-| [Ominaisuus 7](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-ominaisuuskuvaus.md) | | |
+
+| Ominaisuus | Prioriteetti |
+| :-: | :-: |
+| [Arviointisivusto](Ominaisuuskuvaus1) | Korkea |
+| [Kielen valinta](Ominaisuuskuvaus2) | Matala |
+| [Keskiarvon laskeminen](Ominaisuuskuvaus3) | Korkea |
 
 
-
-## Julkaisun suunnitelma
-
-| Aika + Ominaisuuus | Kuvaus | Vastuu | Prioriteetti |
-|:-:|:-:|:-:|:-:|
-| 1.1.201x [Ominaisuus 1](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-ominaisuuskuvaus.md) | | |
-| 1.4.201x [Ominaisuus 2](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-ominaisuuskuvaus.md) | | |
-| 15.4.201x [Ominaisuus 3](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-ominaisuuskuvaus.md) | | |
-| 5.5.201x [Ominaisuus 4](https://github.com/JAMK-IT/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/blob/master/pohja-ominaisuuskuvaus.md) | | |
 
 
 # Palvelun/ohjelmiston arkkitehtuuri 
