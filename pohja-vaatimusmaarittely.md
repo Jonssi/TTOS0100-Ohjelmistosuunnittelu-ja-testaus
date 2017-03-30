@@ -153,7 +153,7 @@ MocuUP: https://ninjamock.com/s/MR89H
 
 | Ominaisuus | Prioriteetti |
 | :-: | :-: |
-| [Arviointisivusto](Ominaisuuskuvaus1) | Korkea |
+| [Arviointisivusto](https://github.com/Jonssi/TTOS0100-Ohjelmistosuunnittelu-ja-testaus/wiki/Ominaisuuskuvaus1) | Korkea |
 | [Kielen valinta](Ominaisuuskuvaus2) | Matala |
 | [Keskiarvon laskeminen](Ominaisuuskuvaus3) | Korkea |
 
